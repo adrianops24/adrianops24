@@ -50,7 +50,7 @@ Tenho como objetivo criar soluções que facilitem a vida das pessoas e tragam i
 ---
 
 ## 📊 Estatísticas do GitHub
-![Adri's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianops24O&show_icons=true&count_private=true&theme=dracula)
+![Adri's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianops24&show_icons=true&count_private=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianops24&layout=compact&theme=dracula)  
 
