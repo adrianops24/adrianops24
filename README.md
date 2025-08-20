@@ -1,6 +1,6 @@
-## Pense num cara apaixonado em codar sou eu 
+## 
 
-# 👋 Olá, eu sou o Adriano Pereira  
+# 👋 Olá, eu sou o Adriano Pereira e pense num cara apaixonado em codar sou eu  
 
 🎯 **Systems Development Technician | Back-end Development | Mobile Developer**  
 💻 React Native | Flutter | TypeScript | Axios | Node.js | Python  
@@ -50,8 +50,8 @@ Tenho como objetivo criar soluções que facilitem a vida das pessoas e tragam i
 ---
 
 ## 📊 Estatísticas do GitHub
-![Adriano's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula)  
+![Adriano's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianops24&show_icons=true&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianops24&layout=compact&theme=dracula)  
 
 ---
 
