@@ -55,6 +55,15 @@ Tenho como objetivo criar soluções que facilitem a vida das pessoas e tragam i
 
 ---
 
+
+
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=adrianops24&count_private=true&show_icons=true&theme=merko)
+
+
+
+
+
+
 ## 🎓 Formação acadêmica
 - **Bacharelado em Sistemas de Informação** – Descomplica Faculdade Digital *(2025 - 2029)*  
 - **Técnico em Desenvolvimento de Sistemas** – Escola Técnica Estadual Jurandir Bezerra Lins *(2022 - 2024)*  
